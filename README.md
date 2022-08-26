@@ -1,4 +1,4 @@
-<h3>Olá pessoas maravilhosas!</h3>
+<h2>Olá pessoas maravilhosas!</h2>
 
 <p>Eu sou a Mariana, estudante de Desenvolvimento Web na Trybe e fascinada pelas coisas mais diversas da vida.</p><br />
 
@@ -17,4 +17,13 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />     
+</section>
+<br />
+
+<section>
+<h3>Contatos</h3>
+
+  <a href="https://www.linkedin.com/in/mariana-naomi-ota-b42570238/">
+    <img height="27" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+  </a>
 </section>
