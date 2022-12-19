@@ -22,7 +22,7 @@
 
 
 <section>
-<h3>Contatos</h3>
+<h3>Contacts</h3>
 
   <a href="https://www.linkedin.com/in/mariana-naomi-ota-dev/">
     <img height="27" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
