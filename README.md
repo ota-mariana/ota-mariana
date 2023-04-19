@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Computer Science**
 
 - 🤝 I’m looking to collaborate on **companies**
 
